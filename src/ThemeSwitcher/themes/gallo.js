@@ -11,7 +11,7 @@ const gallo = {
     },
     text: {
       primary: "#D0021B",
-      secondary: "​​​​​​​#578104",
+      secondary: "#578104",
       }
   },
   overrides: {
@@ -59,7 +59,7 @@ const gallo = {
 //     },
 //     text: {
 //       primary: "#D0021B",
-//       secondary: "​​​​​​​#ffffff"
+//       secondary: "#ffffff"
 //     },
 //   },
 //   overrides: {
