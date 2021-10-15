@@ -113,7 +113,7 @@ module.exports = {
       }
     ],
     wrapper: 'src/Wrapper/UXPinWrapper.js',
-    webpackConfig: 'webpack.config.js',
+    webpackConfig: 'uxpin.webpack.config.js',
   },
   name: "Material Design UI"
 };
